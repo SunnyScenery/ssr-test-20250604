@@ -21,5 +21,3 @@ The following table shows all demo features in this app.
 | Image optimization      | /image                                   |
 | Remote Image            | /remoteimage                             |
 
-
-test push
